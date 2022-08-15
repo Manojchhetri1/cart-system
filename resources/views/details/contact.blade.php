@@ -15,7 +15,7 @@
                 <div>  
                     <h5>Send us feedback<h5>
                     <label for="fname">Name</label><br>
-                     <input type="text" name="name" placeholder="Your name..">
+                     <input type="text" name="name" placeholder="Your name...">
                      <br>
                      <label for="feedback">Feedback</label><br>
                      <textarea name="description" placeholder="what's on your mind" style="height:100px"></textarea>
